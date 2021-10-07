@@ -1,0 +1,14 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "A quick node and express demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ShereneC",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
